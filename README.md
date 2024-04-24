@@ -5,6 +5,9 @@
 This repository contains test cases for the Demo Bank App. The purpose of these test cases is to ensure that the application functions correctly, meets the specified requirements, and delivers a seamless user experience.
 
 - [**TEST CASES LINK**](https://docs.google.com/spreadsheets/d/1RqqELBk0kdBnF3xazXMpz79Zdp9VXOKEjNhC_aKY__8/edit#gid=0)
+- 
+## Note
+Test cases are constantly being expanded
 
 ## Test Case Categories
 1. **Login and Authentication**: Test cases related to user login, authentication, and session management.
